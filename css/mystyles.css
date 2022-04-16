@@ -1,0 +1,16 @@
+/*! My Style Sheet */
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif; color: darkslategray;
+}
+ul {
+    font-size: x-large;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif; color: lavenderblush;
+}
+span {
+    font-family: Georgia, 'Times New Roman', Times, serif; color:ghostwhite;
+}
+a {
+    color: deeppink;
+}
